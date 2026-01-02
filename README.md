@@ -219,13 +219,10 @@ src/
 ## 📞 Soporte
 
 Para soporte técnico o consultas:
-- **Email**: [email de soporte]
+- **Email**: benjamin.gonzalez97@inacapmail.cl
 - **Documentación**: Este README
 - **Logs**: Sistema interno de registro
 
-## 📄 Licencia
-
-Este proyecto está bajo licencia [tipo de licencia].
 
 ---
 
